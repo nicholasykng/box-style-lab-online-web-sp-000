@@ -65,3 +65,7 @@ img {
   box-sizing: border-box;
   border: 2px solid #333
 }
+
+h4.amiable {
+  background: linear-gradient(to-right, #2c5402, #64bd06);
+}
